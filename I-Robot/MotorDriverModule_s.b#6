@@ -61,6 +61,8 @@
 <wire x1="105" y1="-5" x2="105" y2="50" width="0" layer="20"/>
 <wire x1="105" y1="50" x2="-5" y2="50" width="0" layer="20"/>
 <wire x1="-5" y1="50" x2="-5" y2="-5" width="0" layer="20"/>
+<text x="5" y="40" size="2.1844" layer="1" ratio="12">MotorDriverDevice</text>
+<text x="30" y="40" size="2.1844" layer="1" ratio="1">ITO</text>
 </plain>
 <libraries>
 <library name="TB6549">
